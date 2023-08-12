@@ -1,0 +1,1 @@
+str1 = "pck-1  py1 - str1"
